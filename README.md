@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @granai, 29 years old, i'm from Piracicaba-SP
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on Projetos do curso de Engenharia da Computação
+- 👀 I’m interested in Information Technology and OpenSource Projects
+- 🌱 I’m currently learning Python
 - 📫 How to reach me angelogranai@protonmail.com
 
 <center>
