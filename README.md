@@ -1,7 +1,8 @@
 - ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I’m Angelo Granai, from Sao Paulo, Brazil!
 👀 I’m interested in learning more about Linux, Python, DevOps, virtualization and agile methodologies. </br>
 📫 How to reach me angelogranai@protonmail.com </br>
-I’m on Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/angelogranai?style=social)
+I’m on Twitter ![Twitter Follow](<a> https://img.shields.io/twitter/angelogranai?style=social)
+https://twitter.com/angelogranai
 
 Proudly intern at Red Hat, catalyst of Open Source for the enterprise world.
 
