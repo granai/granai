@@ -1,6 +1,18 @@
-- ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I’m Angelo Granai, from Sao Paulo, Brazil!
-### 👀 I’m interested in Linux and Python
-### 📫 How to reach me angelogranai@protonmail.com
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I’m Angelo Granai, from Sao Paulo, Brazil!
+👀 I’m interested in learning more about Linux, Python, DevOps, virtualization and agile methodologies.
+📫 How to reach me angelogranai@protonmail.com
+
+Proudly intern at Red Hat, catalyst of Open Source for the enterprise world.
+
+Solution Architecture Team. 
+
+Tenacious, focused on generating value and results. 
+
+Knowledge in Python, git, Linux.
+
+12+ years of experience with people and sales, I have acquired many soft skills in collaboration and communication. 
+
+Before my career migration to Tech, I worked as a public health agent, retail store manager and commercial agent for banking products and life insurance.
 
 <center>
 <table>
