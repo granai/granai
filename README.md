@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @granai, from Piracicaba-SP, Brazil.
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Angelo Granai, from Brazil!
 - 👀 I’m interested in Linux and Python
 - 📫 How to reach me angelogranai@protonmail.com
 
