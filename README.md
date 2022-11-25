@@ -2,17 +2,23 @@
 👀 I’m interested in learning more about Linux, Python, DevOps, virtualization and agile methodologies. </br>
 📫 How to reach me angelogranai@protonmail.com </br>
 
-Proudly intern at Red Hat, catalyst of Open Source for the enterprise world.
+Estudante do Bacharelado em Tecnologia da Informação (UNIVESP).
 
-Solution Architecture Team. 
+Fui estagiário na Red Hat onde trabalhei com metodologias ágeis e cultura DevOps, vivenciei o mundo open source e da transformação digital e me aprofundei tecnicamente nos principais produtos do portfólio da empresa.
 
-Tenacious, focused on generating value and results. 
+Antes de migrar de carreira para Tecnologia trabalhei mais de 12 anos com pessoas, vendas e gestão administrativa, adquiri muitas soft skills em colaboração e comunicação (escrita e verbal), experiente em realizar apresentações e treinamentos.
 
-Knowledge in Python, git, Linux.
+Tecnologias:
+Pacote Office, Redes, Linux (RHEL, Ubuntu), Git (GitLab), Bash, Automation (Ansible), Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure).
 
-12+ years of experience with people and sales, I have acquired many soft skills in collaboration and communication. 
+Certificações:
+Microsoft Certified: Azure Fundamentals (AZ900).
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900).
+Google Career Certificate: Fundamentos do Suporte Técnico.
+Google Career Certificate: Estrutura e Funcionamento das Redes de Computadores.
+Scrum Foundation Professional Certificate - SFPC™
 
-Before my career migration to Tech, I worked as a public health agent, retail store manager and commercial agent for banking products and life insurance.
+Idiomas: Português (nativo), Inglês (Avançado).
 
 <center>
 <table>
