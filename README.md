@@ -16,6 +16,7 @@ Microsoft Certified: Azure Fundamentals (AZ900).
 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900).
 Google Career Certificate: Fundamentos do Suporte Técnico.
 Google Career Certificate: Estrutura e Funcionamento das Redes de Computadores.
+Google Career Certificate: Administração de Sistemas e Serviços de Infraestrutura de TI
 Scrum Foundation Professional Certificate - SFPC™
 
 Idiomas: Português (nativo), Inglês (Avançado).
