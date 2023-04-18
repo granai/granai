@@ -1,5 +1,17 @@
 # 💫 About Me:
-Estudante do Bacharelado em Tecnologia da Informação (UNIVESP).<br><br>Fui estagiário na Red Hat onde trabalhei com metodologias ágeis e cultura DevOps, vivenciei o mundo open source e da transformação digital e me aprofundei tecnicamente nos principais produtos do portfólio da empresa.<br><br>Antes de migrar de carreira para Tecnologia trabalhei mais de 12 anos com pessoas, vendas e gestão administrativa, adquiri muitas soft skills em colaboração e comunicação (escrita e verbal), experiente em realizar apresentações e treinamentos.<br><br>Tecnologias:<br>Pacote Office, Redes, Linux (RHEL, Ubuntu), Git (GitLab), Bash, Automation (Ansible), Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure).<br><br>Certificações:<br>Microsoft Certified: Azure Fundamentals (AZ900).<br>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900).<br>Certificado Profissional de Suporte em TI do Google<br>Scrum Foundation Professional Certificate - SFPC™<br><br>Idiomas: Português (Nativo), Inglês (Avançado).
+Estagiário de Infraestrutura e Suporte na Reply, sou estudante do Bacharelado em Tecnologia da Informação na UNIVESP, tenho experiência em estágio anterior na Red Hat. 
+
+Entusiasta da cultura DevOps e Open Source. Antes de trabalhar com tecnologia acumulei mais de 12 anos de experiência com atendimento, vendas, corretagem de seguros e gestão comercial, tendo adquirido fortes habilidades em colaboração e comunicação (oral e escrita).
+
+Skills:
+Redes, Linux (RHEL, Ubuntu), Git, Shell Script, Python, Automation (Ansible), Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure, AWS, OCI), Jira Software, Jira Service Management, Confluence, Metodologias Ágeis.
+
+Certificações:
+Microsoft Certified: Azure Fundamentals (AZ900).
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900).
+Certificado Profissional de Suporte em TI do Google
+Scrum Foundation Professional Certificate - SFPC™
+Cisco Networking Essentials.
 
 
 ## 🌐 Socials:
