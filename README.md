@@ -1,17 +1,17 @@
 # 💫 About Me:
-Estagiário de Infraestrutura e Suporte na Reply, sou estudante do Bacharelado em Tecnologia da Informação na UNIVESP, tenho experiência em estágio anterior na Red Hat. 
+Analista de Infraestrutura Cloud na Reply Logistics, onde desempenho um papel fundamental na gestão de servidores Linux em ambientes de nuvem, administração de containers Docker e a automação de configurações e provisionamento de recursos. Também sou um dos responsáveis pela sustentação de aplicações Java utilizando os servidores web Apache, Nginx, Tomcat e JBoss/Wildfly.
 
-Entusiasta da cultura DevOps e Open Source. Antes de trabalhar com tecnologia acumulei mais de 12 anos de experiência com atendimento, vendas, corretagem de seguros e gestão comercial, tendo adquirido fortes habilidades em colaboração e comunicação (oral e escrita).
+Cursando o penúltimo semestre do Bacharelado em Tecnologia da Informação na UNIVESP.
 
 Skills:
-Redes, Linux (RHEL, Ubuntu), Git, Shell Script, Python, Automation (Ansible), Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure, AWS, OCI), Jira Software, Jira Service Management, Confluence, Metodologias Ágeis.
+Linux, Git, Shell Script, Ansible, Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure, OCI), Administração de servidores Jboss e Apache, Jira, Confluence, Metodologias Ágeis.
 
 Certificações:
-Microsoft Certified: Azure Fundamentals (AZ900).
-Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900).
+Certified Linux Administrator (LPIC-1)
+Microsoft Certified: Azure Fundamentals (AZ900)
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900)
 Certificado Profissional de Suporte em TI do Google
-Scrum Foundation Professional Certificate - SFPC™
-Cisco Networking Essentials.
+
 
 
 ## 🌐 Socials:
