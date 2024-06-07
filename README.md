@@ -1,17 +1,10 @@
 # 💫 About Me:
-Analista de Infraestrutura Cloud na Reply Logistics, onde desempenho um papel fundamental na gestão de servidores Linux em ambientes de nuvem, administração de containers Docker e a automação de configurações e provisionamento de recursos. Também sou um dos responsáveis pela sustentação de aplicações Java utilizando os servidores web Apache, Nginx, Tomcat e JBoss/Wildfly.
+Analista de Infraestrutura Cloud na Reply Logistics, onde desempenho um papel fundamental na gestão de servidores Linux em ambientes críticos de nuvem, administração de containers Docker e a automação de configurações e provisionamento de recursos. Também sou um dos responsáveis pelo monitoramento e sustentação de aplicação Java utilizando os servidores Apache e Wildfly. 
 
-Cursando o penúltimo semestre do Bacharelado em Tecnologia da Informação na UNIVESP.
-
-Skills:
-Linux, Git, Shell Script, Ansible, Containers (Docker e Podman), Kubernetes (OpenShift), Cloud (Azure, OCI), Administração de servidores Jboss e Apache, Jira, Confluence, Metodologias Ágeis.
-
-Certificações:
+Bacharel em Tecnologia da Informação
 Certified Linux Administrator (LPIC-1)
 Microsoft Certified: Azure Fundamentals (AZ900)
 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900)
-Certificado Profissional de Suporte em TI do Google
-
 
 
 ## 🌐 Socials:
