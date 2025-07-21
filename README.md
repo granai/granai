@@ -10,5 +10,5 @@ Microsoft Certified: Azure Administrator Associate (AZ-104)
 Microsoft Certified: Azure Fundamentals (AZ-900)
 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-
+[![Currículo](https://img.shields.io/badge/Currículo-Angelo_Granai_Neto-blue?style=for-the-badge)](https://granai.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelogranai)
